@@ -1,0 +1,4 @@
+Kaggle/Bike_Sharing/data
+Kaggle/House_Prices_Regression/data
+*.ipynb_checkpoints
+*.pickle
