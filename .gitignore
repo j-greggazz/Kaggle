@@ -1,5 +1,5 @@
 Kaggle/Bike_Sharing/data
 Kaggle/House_Prices_Regression/data
-Kaggle/House_Prices_Regression/
+Kaggle/House_Prices_Regression/notebooks/old
 *.ipynb_checkpoints
 *.pickle
