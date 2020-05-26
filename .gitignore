@@ -4,3 +4,5 @@ Kaggle/House_Prices_Regression/old
 *.ipynb_checkpoints
 *.pickle
 *.csv
+*.h5
+*.json
